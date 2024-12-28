@@ -4,7 +4,6 @@ from PySide6.QtCore import QCoreApplication, Qt
 from PySide6.QtGui import QFontDatabase
 import sys
 import os
-from windows.main_window import MainWindow
 
 def load_fonts():
         poppins_dir = '../assets/fonts/Poppins'
