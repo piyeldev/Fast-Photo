@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>imgs/logo.png</file>
+  </qresource>
+  <qresource prefix="edit_icon">
+    <file>icons/edit_icon.png</file>
+  </qresource>
+  <qresource prefix="shutter_icon">
+    <file>icons/camera_icon.png</file>
+  </qresource>
+  <qresource prefix="rec_icon">
+    <file>icons/video-icon.png</file>
+  </qresource>
+  <qresource prefix="rectangle">
+    <file>imgs/Rectangle.png</file>
+  </qresource>
+  <qresource prefix="settings_icon">
+    <file>icons/settings-icon.png</file>
+  </qresource>
+</RCC>
